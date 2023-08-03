@@ -1,4 +1,4 @@
-# Atlanta Eviction Prediction
+# Predicting Eviction Cases in Atlanta with AI-Driven Forecasting Techniques 
 This project is for the 2023 Summer Data Science for Social Good practicum, sponsored by Emory's QTM department, Center for AI and Life, Enterprise Community Solutions, and Accenture. A prediction on eviction court filings in the Metro Atlanta area is conducted, and valuable insights into eviction trends is provided.
 
 #### -- Project Status: [In Progress]
