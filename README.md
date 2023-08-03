@@ -48,7 +48,7 @@ Based on some literature review of similar eviction prediction projects in other
 #### Tract ID Changes: 
 During our data cleaning process, we encountered a significant challenge: around 50% of our data was missing. This issue stemmed from the fact that the American Community Survey (ACS) modifies census tracts every ten years, often splitting a single tract into two due to population increases. To tackle this issue, we engaged in a meticulous process of manually comparing maps from different years to identify changes in census tracts. This allowed us to fill in gaps in our data and created a more comprehensive dataset.
 #### Missing 2022-2023 ACS Data
-In addition to this, we found that the ACS data was only updated until 2021, while our project also required data for 2022 and 2023. As a solution, we used the most recent data from 2021 to replace the missing data for 2022 and 2023. Although not a perfect solution, this strategy allowed us to create a working model with a complete dataset.
+We found that the ACS data was only updated until 2021, while our project also required data for 2022 and 2023. As a solution, we used the most recent data from 2021 to replace the missing data for 2022 and 2023. Although not a perfect solution, this strategy allowed us to create a working model with a complete dataset.
 
 ### Exploratory Data Analysis: 
 After cleaning our data, we conduct an in-depth exploratory analysis. By examining the potential correlations among our selected variables, we are able to identify patterns and relationships that are essential for our modelling phase.
