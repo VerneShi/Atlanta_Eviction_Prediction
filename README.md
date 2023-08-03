@@ -14,7 +14,7 @@ This GitHub repository includes all code, data, and resources used in the develo
 
 
 ### Collaborators
-* Audrey Bu <audrey.bu@emory.edu>
+* Audrey Bu <audrey.bu@emory.edu
 * Alina Chen <jiayi.chen@emory.edu>
 * Hasong Cho <ha.song.cho@emory.edu>
 * Tiantian Meng <tiantian.meng@emory.edu>
