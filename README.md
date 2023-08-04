@@ -57,10 +57,14 @@ After cleaning our data, we conduct an in-depth exploratory analysis. By examini
 ### Model Selection and Feature Engineering: 
 We employ XGBoost, a high-performance tree-based model, for our eviction prediction task. The model, enhanced with feature engineering, aids us in determining the most influential features for our eviction prediction task.
 
+### Our Prediction Result
+![Plot](./Visualization/Result.png)
+
+
 ## Exploratory Data Analysis
 ### Eviction Story: Change in Filing Number Overtime Across Counties
-![Plot](./Visualization/B93EF322-1D3E-4930-A041-A8034CCE9547.gif)
 ![Plot](./Visualization/Ev_bycounty_time.png)
+![Plot](./Visualization/B93EF322-1D3E-4930-A041-A8034CCE9547.gif)
 ### Is there a racial bias when it comes to eviction?
 ![Plot](./Visualization/image.png)
 ![Plot](./Visualization/BlackvsNon.png)
