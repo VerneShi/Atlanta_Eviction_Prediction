@@ -43,7 +43,7 @@ This GitHub repository includes all code, data, and resources used in the develo
 * US Census Bureau - American Community Survey 5-Year Data Profile
 
 ### Variable Inclusion
-Based on some literature review of similar eviction prediction projects in other states, we have identified a wide range of potential variables. These include demographic (Race & Sex), economic (Income, education, occupation, etc.), social (Employment), and housing variables, all of which have been shown to be related to eviction in previous studies. (For detailed variables table, please refer to [Variable Names for API.xls](./datasets/Variable Names for API.xlsx))
+Based on some literature review of similar eviction prediction projects in other states, we have identified a wide range of potential variables. These include demographic (Race & Sex), economic (Income, education, occupation, etc.), social (Employment), and housing variables, all of which have been shown to be related to eviction in previous studies. (For detailed variables table, please refer to
 
 ### Data Cleaning and Handling Missing Values
 #### Tract ID Changes: 
