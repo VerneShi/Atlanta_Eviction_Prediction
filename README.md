@@ -65,9 +65,7 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 ![Plot](./Visualization/BlackvsNon.png)
 ![Plot](./Visualization/Race.png)
 ### Other Potential Variables
-#### Gross Rent As A Percentage of Income VS Eviction
 ![Plot](./Visualization/GrossRent.png)
-### Industry VS Eviction
 ![Plot](./Visualization/Industry.png)
 
 ## Needs of This Project
