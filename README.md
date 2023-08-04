@@ -59,6 +59,7 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 
 ## Exploratory Data Analysis
 ### Eviction Story: Change in Filing Number Overtime Across Counties
+![Plot](./Visualization/B93EF322-1D3E-4930-A041-A8034CCE9547.gif)
 ![Plot](./Visualization/Ev_bycounty_time.png)
 ### Is there a racial bias when it comes to eviction?
 ![Plot](./Visualization/image.png)
