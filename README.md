@@ -53,10 +53,22 @@ We found that the ACS data was only updated until 2021, while our project also r
 
 ### Exploratory Data Analysis: 
 After cleaning our data, we conduct an in-depth exploratory analysis. By examining the potential correlations among our selected variables, we are able to identify patterns and relationships that are essential for our modelling phase.
-(Graph here)
 
 ### Model Selection and Feature Engineering: 
 We employ XGBoost, a high-performance tree-based model, for our eviction prediction task. The model, enhanced with feature engineering, aids us in determining the most influential features for our eviction prediction task.
+
+## Exploratory Data Analysis
+### Eviction Story: Change in Filing Number Overtime Across Counties
+![Plot](./Visualization/Ev_bycounty_time.png)
+### Is there a racial bias when it comes to eviction?
+
+![Plot](./Visualization/BlackvsNon.png)
+![Plot](./Visualization/Race.png)
+### Other Potential Variables
+#### Gross Rent As A Percentage of Income VS Eviction
+![Plot](./Visualization/GrossRent.png)
+### Industry VS Eviction
+![Plot](./Visualization/Industry.png)
 
 ## Needs of This Project
 * Data Exploration/Descriptive Statistics
