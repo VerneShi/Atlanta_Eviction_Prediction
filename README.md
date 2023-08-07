@@ -43,7 +43,7 @@ This GitHub repository includes all code, data, and resources used in the develo
 * US Census Bureau - American Community Survey 5-Year Data Profile
 
 ### Variable Inclusion
-Based on some literature review of similar eviction prediction projects in other states, we have identified a wide range of potential variables. These include demographic (Race & Sex), economic (Income, education, occupation, etc.), social (Employment), and housing variables, all of which have been shown to be related to eviction in previous studies. (For detailed variables table, please refer to
+Based on some literature review of similar eviction prediction projects in other states, we have identified a wide range of potential variables. These include demographic (Race & Sex), economic (Income, education, occupation, etc.), social (Employment), and housing variables, all of which have been shown to be related to eviction in previous studies. 
 
 ### Data Cleaning and Handling Missing Values
 #### Tract ID Changes: 
@@ -82,7 +82,22 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 
 
 ## Getting Started
-1. 
+
+Follow these steps to get started with the project:
+
+1. **Clone the Repository**: Clone the repository to your local machine to have access to all the necessary files.
+
+2. **Install Dependencies**: Make sure to install all required packages and libraries as specified in the requirements.txt file.
+
+3. **Data Cleaning**: For the data cleaning process, please refer to [model_pipeline_v5.ipynb](path/to/model_pipeline_v5.ipynb).
+
+4. **Prediction Model**: And for our prediction model, please refer to [final_prediction.ipynb](path/to/final_prediction.ipynb).
+
+5. **ACS Code and Variable Names**: You can find ACS code and their variable names in [Variable Names for API](./datasets/Variable Names for API.xlsx).
+
+6. **County Tract Changes**: You can find each county's Tract Changes in the [datasets folder](path/to/datasets).
+
+
 
 ## Acknowledgement 
 This work is sponsored by Emory's QTM department, Center for AI and Life, Enterprise Community Solutions, and Accenture. We would like to thank Dr. Kevin McAlister for his mentorship during the Summer Data Science for Social Good practicum. 
