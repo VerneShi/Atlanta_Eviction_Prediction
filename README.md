@@ -75,6 +75,10 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 ![Plot](./Visualization/GrossRent.png)
 ![Plot](./Visualization/Industry.png)
 
+## Model
+### Feature Engineering
+1. **Lag Terms**: Add 13 lag terms to include time series information for prediction, you can change the number of lag terms in this model.
+2. 
 
 ## Getting Started
 
