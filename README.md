@@ -78,7 +78,9 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 ## Model
 ### Feature Engineering
 1. **Lag Terms**: Add 13 lag terms to include time series information for prediction, you can change the number of lag terms in this model.
-2. 
+2. **Binning Method**: Discretize the mean value of historical filing numbers into categorical variable to improve the accuracy of prediction.
+3. **Add Binary Variables**: Add binary variables based on policies like CARES Act Moratorium and CDC Moratorium.
+4. **Encoding**: Use one-hot encoding on categorical variables with few categories and label encoding on categorical variables with a lot of categories.
 
 ## Getting Started
 
