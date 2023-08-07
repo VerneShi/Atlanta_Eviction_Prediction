@@ -75,12 +75,30 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 ![Plot](./Visualization/GrossRent.png)
 ![Plot](./Visualization/Industry.png)
 
-## Model
-### Feature Engineering
+## Feature Engineering
+
 1. **Lag Terms**: Add 13 lag terms to include time series information for prediction, you can change the number of lag terms in this model.
+   
 2. **Binning Method**: Discretize the mean value of historical filing numbers into categorical variable to improve the accuracy of prediction.
+   
 3. **Add Binary Variables**: Add binary variables based on policies like CARES Act Moratorium and CDC Moratorium.
+   
 4. **Encoding**: Use one-hot encoding on categorical variables with few categories and label encoding on categorical variables with a lot of categories.
+
+## Model
+
+### XGBoost
+* Gradient Boosting Decision Tree Algorithm
+* Widely Used in Industries
+* Good Interpretability
+* Prevent Overfitting through Regularization
+* Fast and Efficient with Parallel Processing on Large Datasets
+* Handle Missing Values
+* Provide Feature Importance
+
+### Multi-step Recursive Time-Series Forecasting
+* Use the prediction results for the next month prediction
+* We provide 1st, 3rd, 6th months prediction currently but you can change the parameter 
 
 ## Getting Started
 
