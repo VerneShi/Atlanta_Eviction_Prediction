@@ -10,7 +10,7 @@ The Atlanta Eviction Prediction Project is a strategic initiative aimed at addre
 
 This project aims to create a model that predicts eviction rates in various neighborhoods throughout Atlanta, using a variety of indicators such as demographic data, economic factors, housing market trends, and other relevant predictors. By anticipating eviction risks and understanding their root causes, we can provide crucial insights and data-driven recommendations to stakeholders, informing them about the areas of greatest need.
 
-This GitHub repository includes all code, data, and resources used in the development and implementation of this predictive model. We also did a final presentation, the slide is available here (Link)
+This GitHub repository includes all code, data, and resources used in the development and implementation of this predictive model. We also did a final presentation, [the presentation slide](https://www.canva.com/design/DAFo9gra0mI/vHC1FyrOTQf5gSvvtlZepA/edit?utm_content=DAFo9gra0mI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) is available in the link.
 
 
 ### Collaborators
