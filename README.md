@@ -82,13 +82,13 @@ Follow these steps to get started with the project:
 
 2. **Install Dependencies**: Make sure to install all required packages and libraries.
 
-3. **Data Cleaning**: For the data cleaning process, please refer to [model_pipeline_v5.ipynb](path/to/model_pipeline_v5.ipynb).
+3. **Data Cleaning**: For the data cleaning process, please refer to [model_pipeline_v5.ipynb](./model_pipeline_v5.ipynb).
 
-4. **Prediction Model**: And for our prediction model, please refer to [final_prediction.ipynb](path/to/final_prediction.ipynb).
+4. **Prediction Model**: And for our prediction model, please refer to [final_prediction.ipynb](./final_prediction.ipynb).
 
-5. **ACS Code and Variable Names**: You can find ACS code and their variable names in [Variable Names for API](path/to/Variable%20Names%20for%20API.xlsx).
+5. **ACS Code and Variable Names**: You can find ACS code and their variable names in [Variable Names for API](./datasets/Variable%20Names%20for%20API.xlsx).
 
-6. **County Tract Changes**: You can find each county's Tract Changes in the [datasets folder](path/to/datasets).
+6. **County Tract Changes**: You can find each county's Tract Changes in the [datasets folder](./datasets).
 
 ## Acknowledgement 
 This work is sponsored by Emory's QTM department, Center for AI and Life, Enterprise Community Solutions, and Accenture. We would like to thank Dr. Kevin McAlister for his mentorship during the Summer Data Science for Social Good practicum. 
