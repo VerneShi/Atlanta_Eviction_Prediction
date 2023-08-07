@@ -97,8 +97,13 @@ We employ XGBoost, a high-performance tree-based model, for our eviction predict
 * Provide Feature Importance
 
 ### Multi-step Recursive Time-Series Forecasting
-* Use the prediction results for the next month prediction
-* We provide 1st, 3rd, 6th months prediction currently but you can change the parameter 
+1. **Set Cutoff**: the first month you want to predict
+   
+2. Train the model using the latest data before cutoff
+   
+3. Use the prediction results for the next month prediction
+
+4. We provide 1st, 3rd, 6th months prediction currently but you can predict whatever months you want by changing the parameter in the rolling_prediction function at [final_prediction.ipynb](./final_prediction.ipynb)
 
 ## Getting Started
 
