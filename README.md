@@ -40,8 +40,9 @@ This GitHub repository includes all code, data, and resources used in the develo
 ## Project Description
 
 ### Datasets
-* Atlanta Region Eviction Tracker (Jan 2020 – May 2023)
-* US Census Bureau - American Community Survey 5-Year Data Profile
+1. **Atlanta Region Eviction Tracker (Jan 2020 – May 2023)**: Our project utilizes eviction data collected by the Atlanta Region Eviction Tracker from January 2020 to May 2023. This detailed dataset provides a comprehensive view of eviction cases filed within the Metro Atlanta area, allowing us to analyze patterns and trends. It includes information on eviction filing dates, locations, outcomes, and more. This data is critical for understanding the local housing crisis and aids in predicting future eviction patterns
+   
+2. **US Census Bureau - American Community Survey 5-Year Data Profile**: We also incorporate data from the American Community Survey (ACS) 5-Year Data Profile provided by the US Census Bureau. This extensive dataset contains a wide array of demographic, social, economic, and housing characteristics. It is vital in our analysis to understand underlying factors influencing evictions, such as income levels, family structure, employment status, and more.
 
 ### Variable Inclusion
 Based on some literature review of similar eviction prediction projects in other states, we have identified a wide range of potential variables. These include demographic (Race & Sex), economic (Income, education, occupation, etc.), social (Employment), and housing variables, all of which have been shown to be related to eviction in previous studies. 
