@@ -86,9 +86,9 @@ Follow these steps to get started with the project:
 
 4. **Prediction Model**: And for our prediction model, please refer to [final_prediction.ipynb](./final_prediction.ipynb).
 
-5. **ACS Code and Variable Names**: You can find ACS code and their variable names in [Variable Names for API](./datasets/Variable%20Names%20for%20API.xlsx).
+5. **ACS Code and Variable Names**: You can find ACS code and their corresponding variable names in [Variable Names for API](./datasets/Variable%20Names%20for%20API.xlsx).
 
-6. **County Tract Changes**: You can find each county's Tract Changes in the [datasets folder](./datasets).
+6. **County Tract Changes**: You can find each county's tract changes in the [datasets folder](./datasets).
 
 ## Acknowledgement 
 This work is sponsored by Emory's QTM department, Center for AI and Life, Enterprise Community Solutions, and Accenture. We would like to thank Dr. Kevin McAlister for his mentorship during the Summer Data Science for Social Good practicum. 
